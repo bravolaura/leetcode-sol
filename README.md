@@ -1,2 +1,2 @@
-# leetcode-sol
-Leetcode problems I solved in python.
+# Leetcode-solutions
+##Leetcode problems I solved in python.
